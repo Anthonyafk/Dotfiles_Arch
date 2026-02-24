@@ -1,0 +1,75 @@
+/* ----------- 💫 Adaptado para wlogout sin icon keys 💫 -------- */
+/* pywal-wlogout con nth-child para íconos por orden */
+
+@import '../../.cache/wal/colors-waybar.css';
+
+window {
+    font-family: Fira Code Medium;
+    font-size: 16pt;
+    color: @foreground;
+    background-color: rgba(24, 27, 32, 0.2);
+}
+
+button {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 20%;
+    background-color: transparent;
+    animation: gradient_f 20s ease-in infinite;
+    transition: all 0.3s ease-in;
+    box-shadow: 0 0 10px 2px transparent;
+    border-radius: 36px;
+    margin: 10px;
+    min-width: 100px;
+    min-height: 100px;
+}
+
+button:focus {
+    box-shadow: none;
+    background-size: 20%;
+}
+
+button:hover {
+    background-size: 50%;
+    box-shadow: 0 0 10px 3px rgba(0,0,0,.4);
+    background-color: @color6;
+    color: transparent;
+    transition: all 0.3s cubic-bezier(.55, 0.0, .28, 1.682), box-shadow 0.5s ease-in;
+}
+
+/* Íconos por orden de aparición */
+button:nth-child(1) {
+    background-image: image(url("./icons/power.png"));
+}
+button:nth-child(1):hover {
+    background-image: image(url("./icons/power-hover.png"));
+}
+
+button:nth-child(2) {
+    background-image: image(url("./icons/restart.png"));
+}
+button:nth-child(2):hover {
+    background-image: image(url("./icons/restart-hover.png"));
+}
+
+button:nth-child(3) {
+    background-image: image(url("./icons/logout.png"));
+}
+button:nth-child(3):hover {
+    background-image: image(url("./icons/logout-hover.png"));
+}
+
+button:nth-child(4) {
+    background-image: image(url("./icons/hibernate.png"));
+}
+button:nth-child(4):hover {
+    background-image: image(url("./icons/hibernate-hover.png"));
+}
+
+button:nth-child(5) {
+    background-image: image(url("./icons/lock.png"));
+}
+button:nth-child(5):hover {
+    background-image: image(url("./icons/lock-hover.png"));
+}
+

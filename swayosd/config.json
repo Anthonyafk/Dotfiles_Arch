@@ -1,0 +1,34 @@
+{
+  "bar": {
+    "width": 400,
+    "height": 25,
+    "position": "center",
+    "offset_x": 0,
+    "offset_y": -200,
+    "border_radius": 8,
+    "background_color": "#1a1a1acc",
+    "border_color": "#00ff99ee",
+    "border_size": 2
+  },
+  "text": {
+    "font": "JetBrainsMono Nerd Font",
+    "size": 16,
+    "color": "#ffffffcc"
+  },
+  "icons": {
+    "volume": "",
+    "mute": "",
+    "brightness": ""
+  },
+  "animation": {
+    "fade_in": 0.15,
+    "fade_out": 0.6,
+    "slide": true,
+    "slide_duration": 0.2
+  },
+  "behavior": {
+    "auto_hide": true,
+    "hide_timeout": 1000
+  }
+}
+
