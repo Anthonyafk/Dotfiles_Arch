@@ -1,0 +1,36 @@
+00:00:00.201536 VirtualBox GUI VM Selector Window 7.2.8 r173730 linux.amd64 (Apr 24 2026 13:40:10) release log
+00:00:00.201538 Log opened 2026-05-24T22:14:33.451977000Z
+00:00:00.201539 Build Type: release
+00:00:00.201541 OS Product: Linux
+00:00:00.201541 OS Release: 7.0.3-arch1-2
+00:00:00.201542 OS Version: #1 SMP PREEMPT_DYNAMIC Fri, 01 May 2026 15:49:22 +0000
+00:00:00.201562 DMI Product Name: GF63 Thin 10SC
+00:00:00.201568 DMI Product Version: REV:1.0
+00:00:00.201572 Firmware type: UEFI
+00:00:00.201766 Secure Boot: Disabled
+00:00:00.201809 Host RAM: 15804MB (15.4GB) total, 10606MB (10.3GB) available
+00:00:00.201812 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.201813 Process ID: 354796
+00:00:00.201813 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.201845 Qt version: 6.11.0
+00:00:00.202425 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.208770 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.847898 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 15x60 x 1890x1005
+00:00:00.855778 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:16:19.706834 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:16:25.195964 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:34:13.996665 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:34:15.797895 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:34:49.830270 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:46:32.974481 GUI: UIMediumEnumerator: Medium with key={{810cda75-6a7b-40e0-8e80-063b5c349325}} created
+00:46:33.081086 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:46:36.513206 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:47:02.680171 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:54:10.756461 GUI: UIMediumEnumerator: Medium with key={{c2ad3eb5-3773-4529-bef9-8d3ba5b5ad6d}} created
+00:54:10.865667 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:58:51.513197 GUI: UIMediumEnumerator: Medium with key={{c6fd9c82-681d-4a3d-b063-da3ae313dbe6}} created
+00:58:51.523117 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:58:57.991894 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:59:02.812464 GUI: UIMediumEnumerator: Medium-enumeration finished!
+01:02:39.993462 GUI: UIMediumEnumerator: Medium-enumeration finished!
+01:02:39.993519 Log rotated - Log started 2026-05-24T22:14:33.451977000Z

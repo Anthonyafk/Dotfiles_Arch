@@ -1,0 +1,10 @@
+# GIMP gimp-dodge-burn-tool options
+
+(brush "2. Block 02")
+(dynamics "Pressure Size")
+(palette "Color History")
+(brush-size 51)
+(brush-aspect-ratio 1.5789473684210527)
+(brush-hardness 0.75)
+
+# end of gimp-dodge-burn-tool options

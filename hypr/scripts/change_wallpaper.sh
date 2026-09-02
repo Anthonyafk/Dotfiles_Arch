@@ -10,7 +10,7 @@ WALLPAPERS=(
     "$WP_DIR/chainsaw-man-girls-moewalls-com.mp4"
     "$WP_DIR/falling-upside-down-neon-city-spiderman-into-the-spiderverse-moewalls-com.mp4"
     "$WP_DIR/Frieren in The Field.mp4"
-    "$WP_DIR/Rem live.mp4"
+    "$WP_DIR/Zenitsu’s Blade Drawn in Demon Slayer.mp4"
     "$WP_DIR/Hatsune Miku in System Error Bloom Live.mp4"
     "$WP_DIR/hu-tao-smiling-genshin-impact-moewalls-com.mp4"
 )

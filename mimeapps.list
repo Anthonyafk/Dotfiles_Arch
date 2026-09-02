@@ -1,0 +1,18 @@
+[Added Associations]
+image/png=swappy.desktop;
+text/plain=org.gnome.gedit.desktop;
+application/pdf=okularApplication_pdf.desktop;firefox.desktop;org.gnome.Evince.desktop;
+text/x-tex=org.gnome.gedit.desktop;
+
+[Default Applications]
+image/png=swappy.desktop
+text/plain=org.gnome.gedit.desktop
+application/pdf=org.gnome.Evince.desktop
+text/x-tex=org.gnome.gedit.desktop
+x-scheme-handler/postman=Postman.desktop
+x-scheme-handler/pttp=CiscoPacketTracerPtsa-9.0.0.desktop
+application/x-pka=CiscoPacketTracer-9.0.0.desktop
+application/x-pkt=CiscoPacketTracer-9.0.0.desktop
+application/x-pkz=CiscoPacketTracer-9.0.0.desktop
+application/x-pksz=CiscoPacketTracer-9.0.0.desktop
+x-scheme-handler/discord-1216669957799018608=discord-1216669957799018608.desktop

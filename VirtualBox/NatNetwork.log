@@ -1,0 +1,29 @@
+00:00:00.015063 VirtualBox NAT Network 7.2.16 r174877 linux.amd64 (Aug 18 2026 19:12:07) release log
+00:00:00.015065 Log opened 2026-09-02T20:29:20.487338000Z
+00:00:00.015065 Build Type: release
+00:00:00.015067 OS Product: Linux
+00:00:00.015068 OS Release: 7.1.9-arch1-2
+00:00:00.015069 OS Version: #1 SMP PREEMPT_DYNAMIC Fri, 21 Aug 2026 22:18:59 +0000
+00:00:00.015092 DMI Product Name: GF63 Thin 10SC
+00:00:00.015098 DMI Product Version: REV:1.0
+00:00:00.015103 Firmware type: UEFI
+00:00:00.015299 Secure Boot: Disabled
+00:00:00.015335 Host RAM: 15803MB (15.4GB) total, 5313MB (5.1GB) available
+00:00:00.015338 Executable: /usr/lib/virtualbox/VBoxNetNAT
+00:00:00.015338 Process ID: 1215911
+00:00:00.015339 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.015703 Transfered 1 nameservers to NAT engine.
+00:00:00.016538 SUP: Opened VMMR0.r0 (/usr/lib/virtualbox/VMMR0.r0) at 0xXXXXXXXXXXXXXXXX.
+00:00:00.016837 Loading IPv4 port-forwarding rule "Rule 1": TCP 127.0.0.1:2222 -> 10.0.2.3:22
+00:01:25.813698 Failed to parse IPv4 nameserver 2806:2f0:360:3300::2
+00:01:25.813709 Nameserver is either on 127/8 network or failed to obtain from host. Falling back to libslirp DNS proxy.
+00:12:24.606596 Nameserver is either on 127/8 network or failed to obtain from host. Falling back to libslirp DNS proxy.
+00:12:29.403750 Transfered 1 nameservers to NAT engine.
+00:12:30.513803 Failed to parse IPv4 nameserver 2806:2f0:360:3300::2
+00:12:30.513812 Nameserver is either on 127/8 network or failed to obtain from host. Falling back to libslirp DNS proxy.
+00:51:21.311099 Nameserver is either on 127/8 network or failed to obtain from host. Falling back to libslirp DNS proxy.
+00:51:54.853697 Transfered 1 nameservers to NAT engine.
+00:52:05.858420 Failed to parse IPv4 nameserver 2806:2f0:360:3300::2
+00:52:05.858428 Nameserver is either on 127/8 network or failed to obtain from host. Falling back to libslirp DNS proxy.
+00:52:22.249258 run: shutdown
+00:52:22.249302 Terminating

@@ -1,0 +1,21 @@
+00:00:00.455275 VirtualBox GUI VM Selector Window 7.2.16 r174877 linux.amd64 (Aug 18 2026 19:12:07) release log
+00:00:00.455279 Log opened 2026-09-02T20:28:58.963354000Z
+00:00:00.455280 Build Type: release
+00:00:00.455284 OS Product: Linux
+00:00:00.455285 OS Release: 7.1.9-arch1-2
+00:00:00.455286 OS Version: #1 SMP PREEMPT_DYNAMIC Fri, 21 Aug 2026 22:18:59 +0000
+00:00:00.455317 DMI Product Name: GF63 Thin 10SC
+00:00:00.455329 DMI Product Version: REV:1.0
+00:00:00.455335 Firmware type: UEFI
+00:00:00.455527 Secure Boot: Disabled
+00:00:00.455571 Host RAM: 15803MB (15.4GB) total, 5342MB (5.2GB) available
+00:00:00.455575 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.455575 Process ID: 1215201
+00:00:00.455576 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.455617 Qt version: 6.11.2
+00:00:00.457583 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.484981 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.332985 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 15x60 x 1890x1005
+00:00:01.349156 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:52:32.336426 GUI: UICommon: Handling aboutToQuit request..
+00:52:32.735156 GUI: UICommon: aboutToQuit request handled!

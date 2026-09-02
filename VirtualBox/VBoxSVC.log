@@ -1,0 +1,249 @@
+00:00:00.001225 main     VirtualBox XPCOM Server 7.2.16 r174877 linux.amd64 (Aug 18 2026 19:12:07) release log
+00:00:00.001228 main     Log opened 2026-09-02T20:28:58.688350000Z
+00:00:00.001228 main     Build Type: release
+00:00:00.001230 main     OS Product: Linux
+00:00:00.001231 main     OS Release: 7.1.9-arch1-2
+00:00:00.001232 main     OS Version: #1 SMP PREEMPT_DYNAMIC Fri, 21 Aug 2026 22:18:59 +0000
+00:00:00.001250 main     DMI Product Name: GF63 Thin 10SC
+00:00:00.001261 main     DMI Product Version: REV:1.0
+00:00:00.001265 main     Firmware type: UEFI
+00:00:00.001455 main     Secure Boot: Disabled
+00:00:00.001485 main     Host RAM: 15803MB (15.4GB) total, 5373MB (5.2GB) available
+00:00:00.001489 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.001489 main     Process ID: 1215222
+00:00:00.001490 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.009308 main     IPC socket path: /tmp/.vbox-antualino-ipc/ipcd
+00:00:00.016670 DCon01   VirtualBox: object creation starts
+00:00:00.018075 DCon01   Home directory: '/home/antualino/.config/VirtualBox'
+00:00:00.018471 DCon01   Loading settings file "/home/antualino/.config/VirtualBox/VirtualBox.xml" with version "1.14-linux"
+00:00:00.025501 DCon01   USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0026)
+00:00:00.025750 DCon01   Successfully initialised host USB using sysfs
+00:00:00.049466 DCon01   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.054501 DCon01   HostDnsMonitor: initializing
+00:00:00.054947 DCon01   NAT: resolv.conf: nameserver 192.168.100.1
+00:00:00.054981 DCon01   HostDnsMonitor: updating information
+00:00:00.055004 DCon01   HostDnsMonitor: old information
+00:00:00.055008 DCon01     no server entries
+00:00:00.055012 DCon01     no domain set
+00:00:00.055015 DCon01     no search string entries
+00:00:00.055018 DCon01   HostDnsMonitor: new information
+00:00:00.055021 DCon01     server 1: 192.168.100.1
+00:00:00.055027 DCon01     no domain set
+00:00:00.055029 DCon01     no search string entries
+00:00:00.063916 DCon01   VD: VDInit finished with VINF_SUCCESS
+00:00:00.064823 DCon01   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={925084b0-625f-422f-a67d-0ede1880a56c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.072138 DCon01   Platform architecture set to 'x86'
+00:00:00.076653 DCon01   Loading settings file "/home/antualino/VirtualBox VMs/Ubuntu/Ubuntu.vbox" with version "1.19-linux"
+00:00:00.078585 DCon01   Platform architecture set to 'x86'
+00:00:00.080827 DCon01   Platform architecture set to 'x86'
+00:00:00.082205 DCon01   Loading settings file "/home/antualino/Downloads/Kali/kali-linux-2026.1-virtualbox-amd64/kali-linux-2026.1-virtualbox-amd64.vbox" with version "1.19-linux"
+00:00:00.082682 DCon01   Platform architecture set to 'x86'
+00:00:00.083105 DCon01   Platform architecture set to 'x86'
+00:00:00.083981 DCon01   Loading settings file "/home/antualino/VirtualBox VMs/Meta1/Meta1.vbox" with version "1.19-linux"
+00:00:00.084388 DCon01   Platform architecture set to 'x86'
+00:00:00.087965 DCon01   VirtualBox: object created
+00:00:01.226026 DCon01   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:06.300343 DCon01   Launched VM: 4027580096 pid: 1215559 (0x128c47) frontend: GUI/Qt name: kali-linux-2026.1-virtualbox-amd64
+00:00:06.344030 DCon04   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:06.538153 DCon06   Platform architecture set to 'x86'
+00:00:06.560185 DCon08   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:06.755778 DCon08   Saving settings file "/home/antualino/.config/VirtualBox/VirtualBox.xml" with version "1.14-linux"
+00:00:06.766214 DCon08   Finished saving settings file "/home/antualino/.config/VirtualBox/VirtualBox.xml"
+00:00:07.660648 DCon04   Saving settings file "/home/antualino/.config/VirtualBox/VirtualBox.xml" with version "1.14-linux"
+00:00:07.668846 DCon04   Finished saving settings file "/home/antualino/.config/VirtualBox/VirtualBox.xml"
+00:00:21.745380 DCon11   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:21.760521 DCon11   VM 'kali-linux-2026.1-virtualbox-amd64' starts using NAT network 'NatNetwork'
+00:00:21.760567 DCon11   HostDnsMonitorProxy::GetDomainName: no domain set
+00:00:21.760580 DCon11   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={46735de7-f4c4-4020-a185-0d2881bcfa8b} aComponent={DHCPGlobalConfigWrap} aText={DHCP option 15 was not found}, preserve=false aResultDetail=0
+00:00:21.760601 DCon11   HostDnsMonitorProxy::GetNameServers:
+00:00:21.760603 DCon11     name server 1: 192.168.100.1
+00:00:21.760703 DCon11   Saving settings file "/home/antualino/.config/VirtualBox/VirtualBox.xml" with version "1.14-linux"
+00:00:21.768703 DCon11   Finished saving settings file "/home/antualino/.config/VirtualBox/VirtualBox.xml"
+00:00:21.768745 DCon11   HostDnsMonitorProxy::GetSearchStrings:
+00:00:21.768747 DCon11     no search string entries
+00:00:21.768757 DCon11   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={46735de7-f4c4-4020-a185-0d2881bcfa8b} aComponent={DHCPGlobalConfigWrap} aText={DHCP option 119 was not found}, preserve=false aResultDetail=0
+00:00:21.768867 DCon11   Saving settings file "/home/antualino/.config/VirtualBox/VirtualBox.xml" with version "1.14-linux"
+00:00:21.774255 DCon11   Finished saving settings file "/home/antualino/.config/VirtualBox/VirtualBox.xml"
+00:00:21.775187 DCon11   NetworkServiceRunning: started 'VBoxNetDHCP', pid 00128da6
+00:00:21.775817 DCon11   NetworkServiceRunning: started 'VBoxNetNAT', pid 00128da7
+00:00:21.775929 DCon11   Started NAT network 'NatNetwork'
+00:00:21.800791 DCon10   HostDnsMonitorProxy::GetNameServers:
+00:00:21.800803 DCon10     name server 1: 192.168.100.1
+00:00:21.814913 DCon10   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:21.990949 DCon10   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:21.992121 DCon10   HostDnsMonitorProxy::GetDomainName: no domain set
+00:00:21.992221 DCon10   HostDnsMonitorProxy::GetNameServers:
+00:00:21.992223 DCon10     name server 1: 192.168.100.1
+00:00:21.992316 DCon10   HostDnsMonitorProxy::GetSearchStrings:
+00:00:21.992318 DCon10     no search string entries
+00:00:22.037395 DCon04   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:22.066985 DCon04   Saving settings file "/home/antualino/.config/VirtualBox/VirtualBox.xml" with version "1.14-linux"
+00:00:22.075272 DCon04   Finished saving settings file "/home/antualino/.config/VirtualBox/VirtualBox.xml"
+00:01:47.598415 dns-monitor NAT: resolv.conf: nameserver 192.168.100.1
+00:01:47.598438 dns-monitor NAT: resolv.conf: nameserver 2806:2f0:360:3300::2
+00:01:47.598446 dns-monitor NAT: resolv.conf: nameserver 2001:4860:4860::8888
+00:01:47.598461 dns-monitor HostDnsMonitor: updating information
+00:01:47.598479 dns-monitor HostDnsMonitor: old information
+00:01:47.598483 dns-monitor   server 1: 192.168.100.1
+00:01:47.598487 dns-monitor   no domain set
+00:01:47.598499 dns-monitor   no search string entries
+00:01:47.598501 dns-monitor HostDnsMonitor: new information
+00:01:47.598502 dns-monitor   server 1: 192.168.100.1
+00:01:47.598504 dns-monitor   server 2: 2806:2f0:360:3300::2
+00:01:47.598506 dns-monitor   server 3: 2001:4860:4860::8888
+00:01:47.598508 dns-monitor   no domain set
+00:01:47.598509 dns-monitor   no search string entries
+00:01:47.598788 DCon02   HostDnsMonitorProxy::GetNameServers:
+00:01:47.598796 DCon02     name server 1: 192.168.100.1
+00:01:47.598798 DCon02     name server 2: 2806:2f0:360:3300::2
+00:01:47.598799 DCon02     name server 3: 2001:4860:4860::8888
+00:01:47.599267 DCon02   HostDnsMonitorProxy::GetDomainName: no domain set
+00:01:47.599354 DCon02   HostDnsMonitorProxy::GetNameServers:
+00:01:47.599357 DCon02     name server 1: 192.168.100.1
+00:01:47.599358 DCon02     name server 2: 2806:2f0:360:3300::2
+00:01:47.599359 DCon02     name server 3: 2001:4860:4860::8888
+00:01:47.599444 DCon02   HostDnsMonitorProxy::GetSearchStrings:
+00:01:47.599447 DCon02     no search string entries
+00:12:46.391293 dns-monitor HostDnsMonitor: updating information
+00:12:46.391332 dns-monitor HostDnsMonitor: old information
+00:12:46.391336 dns-monitor   server 1: 192.168.100.1
+00:12:46.391341 dns-monitor   server 2: 2806:2f0:360:3300::2
+00:12:46.391344 dns-monitor   server 3: 2001:4860:4860::8888
+00:12:46.391347 dns-monitor   no domain set
+00:12:46.391349 dns-monitor   no search string entries
+00:12:46.391352 dns-monitor HostDnsMonitor: new information
+00:12:46.391355 dns-monitor   no server entries
+00:12:46.391357 dns-monitor   no domain set
+00:12:46.391359 dns-monitor   no search string entries
+00:12:46.391676 DCon06   HostDnsMonitorProxy::GetNameServers:
+00:12:46.391686 DCon06     no name server entries
+00:12:46.392219 DCon06   HostDnsMonitorProxy::GetDomainName: no domain set
+00:12:46.392308 DCon06   HostDnsMonitorProxy::GetNameServers:
+00:12:46.392312 DCon06     no name server entries
+00:12:46.392394 DCon06   HostDnsMonitorProxy::GetSearchStrings:
+00:12:46.392398 DCon06     no search string entries
+00:12:51.188589 dns-monitor NAT: resolv.conf: nameserver 192.168.100.1
+00:12:51.188615 dns-monitor HostDnsMonitor: updating information
+00:12:51.188617 dns-monitor HostDnsMonitor: old information
+00:12:51.188618 dns-monitor   no server entries
+00:12:51.188619 dns-monitor   no domain set
+00:12:51.188620 dns-monitor   no search string entries
+00:12:51.188621 dns-monitor HostDnsMonitor: new information
+00:12:51.188623 dns-monitor   server 1: 192.168.100.1
+00:12:51.188624 dns-monitor   no domain set
+00:12:51.188625 dns-monitor   no search string entries
+00:12:51.188860 DCon06   HostDnsMonitorProxy::GetNameServers:
+00:12:51.188866 DCon06     name server 1: 192.168.100.1
+00:12:51.189164 DCon06   HostDnsMonitorProxy::GetDomainName: no domain set
+00:12:51.189212 DCon06   HostDnsMonitorProxy::GetNameServers:
+00:12:51.189213 DCon06     name server 1: 192.168.100.1
+00:12:51.189261 DCon06   HostDnsMonitorProxy::GetSearchStrings:
+00:12:51.189263 DCon06     no search string entries
+00:12:52.298436 dns-monitor NAT: resolv.conf: nameserver 192.168.100.1
+00:12:52.298457 dns-monitor NAT: resolv.conf: nameserver 2806:2f0:360:3300::2
+00:12:52.298460 dns-monitor NAT: resolv.conf: nameserver 2001:4860:4860::8888
+00:12:52.298471 dns-monitor HostDnsMonitor: updating information
+00:12:52.298473 dns-monitor HostDnsMonitor: old information
+00:12:52.298474 dns-monitor   server 1: 192.168.100.1
+00:12:52.298476 dns-monitor   no domain set
+00:12:52.298477 dns-monitor   no search string entries
+00:12:52.298478 dns-monitor HostDnsMonitor: new information
+00:12:52.298479 dns-monitor   server 1: 192.168.100.1
+00:12:52.298480 dns-monitor   server 2: 2806:2f0:360:3300::2
+00:12:52.298481 dns-monitor   server 3: 2001:4860:4860::8888
+00:12:52.298482 dns-monitor   no domain set
+00:12:52.298483 dns-monitor   no search string entries
+00:12:52.298851 DCon14   HostDnsMonitorProxy::GetNameServers:
+00:12:52.298858 DCon14     name server 1: 192.168.100.1
+00:12:52.298860 DCon14     name server 2: 2806:2f0:360:3300::2
+00:12:52.298868 DCon14     name server 3: 2001:4860:4860::8888
+00:12:52.299271 DCon26   HostDnsMonitorProxy::GetDomainName: no domain set
+00:12:52.299341 DCon26   HostDnsMonitorProxy::GetNameServers:
+00:12:52.299343 DCon26     name server 1: 192.168.100.1
+00:12:52.299344 DCon26     name server 2: 2806:2f0:360:3300::2
+00:12:52.299345 DCon26     name server 3: 2001:4860:4860::8888
+00:12:52.299395 DCon26   HostDnsMonitorProxy::GetSearchStrings:
+00:12:52.299397 DCon26     no search string entries
+00:51:43.061402 MainPower Host suspending: Paused 1 VMs
+00:51:43.094604 DCon88   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:51:43.095763 dns-monitor HostDnsMonitor: updating information
+00:51:43.095786 dns-monitor HostDnsMonitor: old information
+00:51:43.095844 dns-monitor   server 1: 192.168.100.1
+00:51:43.095849 dns-monitor   server 2: 2806:2f0:360:3300::2
+00:51:43.095852 dns-monitor   server 3: 2001:4860:4860::8888
+00:51:43.095855 dns-monitor   no domain set
+00:51:43.095858 dns-monitor   no search string entries
+00:51:43.095861 dns-monitor HostDnsMonitor: new information
+00:51:43.095864 dns-monitor   no server entries
+00:51:43.095867 dns-monitor   no domain set
+00:51:43.095869 dns-monitor   no search string entries
+00:51:43.096174 DCon88   HostDnsMonitorProxy::GetNameServers:
+00:51:43.096185 DCon88     no name server entries
+00:51:43.096778 DCon88   HostDnsMonitorProxy::GetDomainName: no domain set
+00:51:43.096894 DCon113  HostDnsMonitorProxy::GetNameServers:
+00:51:43.096904 DCon113    no name server entries
+00:51:43.097021 DCon88   HostDnsMonitorProxy::GetSearchStrings:
+00:51:43.097031 DCon88     no search string entries
+00:51:48.137487 MainPower Host resumed: Resumed 1 VMs
+00:51:48.177687 DCon88   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:52:11.430908 DCon103  Saving settings file "/home/antualino/.config/VirtualBox/VirtualBox.xml" with version "1.14-linux"
+00:52:11.437458 DCon103  Finished saving settings file "/home/antualino/.config/VirtualBox/VirtualBox.xml"
+00:52:16.638347 dns-monitor NAT: resolv.conf: nameserver 192.168.100.1
+00:52:16.638440 dns-monitor HostDnsMonitor: updating information
+00:52:16.638460 dns-monitor HostDnsMonitor: old information
+00:52:16.638463 dns-monitor   no server entries
+00:52:16.638465 dns-monitor   no domain set
+00:52:16.638466 dns-monitor   no search string entries
+00:52:16.638468 dns-monitor HostDnsMonitor: new information
+00:52:16.638470 dns-monitor   server 1: 192.168.100.1
+00:52:16.638472 dns-monitor   no domain set
+00:52:16.638474 dns-monitor   no search string entries
+00:52:16.638790 DCon111  HostDnsMonitorProxy::GetNameServers:
+00:52:16.638800 DCon111    name server 1: 192.168.100.1
+00:52:16.639288 DCon111  HostDnsMonitorProxy::GetDomainName: no domain set
+00:52:16.639381 DCon111  HostDnsMonitorProxy::GetNameServers:
+00:52:16.639386 DCon111    name server 1: 192.168.100.1
+00:52:16.639463 DCon111  HostDnsMonitorProxy::GetSearchStrings:
+00:52:16.639467 DCon111    no search string entries
+00:52:27.643275 dns-monitor NAT: resolv.conf: nameserver 192.168.100.1
+00:52:27.643304 dns-monitor NAT: resolv.conf: nameserver 2806:2f0:360:3300::2
+00:52:27.643308 dns-monitor NAT: resolv.conf: nameserver 2001:4860:4860::8888
+00:52:27.643318 dns-monitor HostDnsMonitor: updating information
+00:52:27.643320 dns-monitor HostDnsMonitor: old information
+00:52:27.643321 dns-monitor   server 1: 192.168.100.1
+00:52:27.643323 dns-monitor   no domain set
+00:52:27.643324 dns-monitor   no search string entries
+00:52:27.643325 dns-monitor HostDnsMonitor: new information
+00:52:27.643326 dns-monitor   server 1: 192.168.100.1
+00:52:27.643327 dns-monitor   server 2: 2806:2f0:360:3300::2
+00:52:27.643328 dns-monitor   server 3: 2001:4860:4860::8888
+00:52:27.643329 dns-monitor   no domain set
+00:52:27.643336 dns-monitor   no search string entries
+00:52:27.643526 DCon110  HostDnsMonitorProxy::GetNameServers:
+00:52:27.643530 DCon110    name server 1: 192.168.100.1
+00:52:27.643531 DCon110    name server 2: 2806:2f0:360:3300::2
+00:52:27.643532 DCon110    name server 3: 2001:4860:4860::8888
+00:52:27.643895 DCon110  HostDnsMonitorProxy::GetDomainName: no domain set
+00:52:27.643943 DCon110  HostDnsMonitorProxy::GetNameServers:
+00:52:27.643945 DCon110    name server 1: 192.168.100.1
+00:52:27.643946 DCon110    name server 2: 2806:2f0:360:3300::2
+00:52:27.643947 DCon110    name server 3: 2001:4860:4860::8888
+00:52:27.643998 DCon110  HostDnsMonitorProxy::GetSearchStrings:
+00:52:27.644000 DCon110    no search string entries
+00:52:31.031208 DCon88   Saving settings file "/home/antualino/.config/VirtualBox/VirtualBox.xml" with version "1.14-linux"
+00:52:31.037279 DCon88   Finished saving settings file "/home/antualino/.config/VirtualBox/VirtualBox.xml"
+00:52:42.529419 DCon88   Saving settings file "/home/antualino/Downloads/Kali/kali-linux-2026.1-virtualbox-amd64/kali-linux-2026.1-virtualbox-amd64.vbox" with version "1.19-linux"
+00:52:42.535188 DCon88   Finished saving settings file "/home/antualino/Downloads/Kali/kali-linux-2026.1-virtualbox-amd64/kali-linux-2026.1-virtualbox-amd64.vbox"
+00:52:42.535833 DCon110  ERROR [COM]: aRC=NS_ERROR_INVALID_ARG (0x80070057) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={Properties with TRANSIENT or TRANSRESET flag cannot be set or modified if VM is not running}, preserve=false aResultDetail=0
+00:52:44.033198 DCon114  VM 'kali-linux-2026.1-virtualbox-amd64' stops using NAT network 'NatNetwork'
+00:52:44.034501 DCon114  NetworkServiceRunning: killing VBoxNetDHCP, pid 00128da6...
+00:52:44.045943 DCon114  NetworkServiceRunning: VBoxNetNAT (pid 00128da7) stopped: iStatus=0 enmReason=1
+00:52:44.045955 DCon114  Stopped NAT network 'NatNetwork'
+00:52:49.053597 main     VirtualBox: object deletion starts
+00:52:49.053724 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Medium '/home/antualino/VirtualBox VMs/Ubuntu/Ubuntu.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:52:49.055214 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Medium '/home/antualino/Downloads/Kali/kali-linux-2026.1-virtualbox-amd64/kali-linux-2026.1-virtualbox-amd64.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:52:49.055335 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Medium '/home/antualino/Downloads/Meta/Metasploitable2-Linux/Metasploitable.vmdk' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:52:49.055865 main     HostDnsMonitor: shutting down ...
+00:52:49.059207 main     HostDnsMonitor: shut down
+00:52:49.070021 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={2ce10519-3c09-45d8-a12d-e887786146b7} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:52:49.070142 main     VirtualBox: object deleted

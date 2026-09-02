@@ -1,0 +1,1 @@
+Oxygen-icons is a freedesktop.org compatible icon theme. Not all icons are implemented and you will get the fallback solution in this case.
